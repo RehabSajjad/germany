@@ -1,0 +1,30 @@
+
+  .flag {
+    position: relative; /* Makes sure strap stays inside */
+    width: 300px;
+    height: 180px;
+    margin: 100px auto;
+    border: 2px solid #000;
+    overflow: hidden; /* Keeps strap inside the flag */
+  }
+  
+  .stripe {
+    height: 60px;
+    width: 100%;
+  }
+  
+  .black {
+    background-color: black;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .gold {
+    background-color: gold;
+  }
+  
+ 
+  
+  
